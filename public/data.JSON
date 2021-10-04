@@ -1,0 +1,50 @@
+[
+    {
+        "title":"Learning Spanish",
+        "subject":"Language",
+        "key":"1",
+        "price":"100",
+        "time":"25",
+        "img":"https://images.squarespace-cdn.com/content/v1/592c1178579fb3d813ecfd09/1545551597192-QGMOXWJ31W0UZVGMJR6N/ES-T-MFL-012-Spanish-Title-Display-Lettering-Spanish.jpg?format=2500w"
+    },
+    {
+        "title":"Learning English",
+        "subject":"Language",
+        "key":"2",
+        "price":"60",
+        "time":"29",
+        "img":"https://images.pexels.com/photos/256417/pexels-photo-256417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "title":"Learning Bangla",
+        "subject":"Language",
+        "key":"3",
+        "price":"80",
+        "time":"28",
+        "img":"https://media-eng.dhakatribune.com/uploads/2019/02/unnamed-1551269988778.jpg"
+    },
+    {
+        "title":"Learning Hindi",
+        "subject":"Language",
+        "key":"4",
+        "price":"90",
+        "time":"27",
+        "img":"https://gumlet.assettype.com/swarajya%2F2019-09%2Fc253d2af-84d3-41ad-b566-722b1e361b06%2Fh1.png?w=640&q=75&auto=format%2Ccompress"
+    },
+    {
+        "title":"Learning Arabic",
+        "subject":"Language",
+        "key":"5",
+        "price":"70",
+        "time":"25",
+        "img":"https://ahlan.b-cdn.net/wp-content/uploads/arabic-modern-colloquial.jpg"
+    },
+    {
+        "title":"Learning Japanese",
+        "subject":"Language",
+        "key":"6",
+        "price":"120",
+        "time":"30",
+        "img":"https://salmanzafar.me/wp-content/uploads/2020/02/Japanese-language-classes.png"
+    }
+]

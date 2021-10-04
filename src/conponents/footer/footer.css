@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Akronim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Birthstone&display=swap');
+
+footer.footer-area {
+    padding: 5rem 0;
+    background: url(../img/footer-bg.png) no-repeat;
+}
+
+footer.footer-area .social h5 {
+    font: normal 500 23px/30px ;
+}
+
+footer.footer-area .social a>i {
+    font-size: 22px;
+    padding: 2rem;
+    color: #b17c7c;
+}
+
+footer.footer-area .social a:hover>i {
+    color: blue;
+}
+.text-uppercase{
+    font-family: 'Akronim',cursive;
+    font-size: 30px;
+    font-weight: 500;
+}
+.para{
+    font-family: 'Birthstone',cursive;
+    font-size: 25px;
+}

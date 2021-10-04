@@ -1,0 +1,77 @@
+.subscribe-us-area .subscribe {
+    background: url(../img/subscribe-bg.png) no-repeat;
+    padding: 10rem 0;
+    margin: 3rem auto;
+    background-size: cover;
+}
+
+.subscribe-us-area .subscribe .subscribe-title h4 {
+    font: normal 700 30px/30px;
+    color: whitesmoke;
+}
+
+.subscribe-us-area .subscribe .subscribe-title p {
+    color: whitesmoke;
+    padding: 1rem 4rem;
+}
+
+.subscribe-us-area .subscribe form .input-textbox input {
+    width: 400px;
+    height: 50px;
+    padding: 1.5rem 1rem;
+    border: 1px solid whitesmoke;
+    background: transparent;
+    color: white;
+    font: normal 500 17px/20px;
+}
+
+.subscribe-us-area .subscribe form .input-textbox input::placeholder {
+    color: whitesmoke;
+}
+
+.subscribe-us-area .subscribe form .btn-submit button {
+    background: whitesmoke;
+    color: #000;
+    padding: .7rem 2rem;
+}
+
+@media only screen and (max-width: 320px) {
+    #txtemail {
+        width: 280px;
+    }
+
+    .main-box {
+        margin-left: 5px;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    #txtemail {
+        width: 300px;
+    }
+
+    .main-box {
+        margin-left: 10px;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .main-box {
+        margin: opx;
+        margin-left: 10px;
+    }
+
+    #txtemail {
+        width: 350px;
+    }
+
+    .text-uppercase {
+        font-size: 25px;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .btn-submit {
+        margin-top: 10px;
+    }
+}
