@@ -1,6 +1,27 @@
-# Getting Started with Create React App
+# `Getting Started with Daily`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project Live Link was  [Daily](https://vibrant-kepler-cd1aab.netlify.app/).
+
+## `What Do You Know From This Website ???`
+
+* Self-study programs allow learning without having a teacher present
+
+*  courses can supplement or replace classroom instruction.
+
+* Universities use self-study programs for less-commonly taught languages
+
+## `What Do You Do IN This Website ???`
+
+* where having professors is not feasible.
+
+* Self-study programs are available on paper, audio files, video files, smartphone apps, computers, or any combination.
+
+## `To Know About Devoloper`
+
+This Is [Linkdun](https://www.linkedin.com/in/kazi-raian-782b541b9/)
+
+This Is [GitHub](https://github.com/freelancerraian)
+
 
 ## Available Scripts
 
