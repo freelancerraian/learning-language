@@ -46,5 +46,29 @@
         "price":"120",
         "time":"30",
         "img":"https://salmanzafar.me/wp-content/uploads/2020/02/Japanese-language-classes.png"
+    },
+    {
+        "title":"Learning Tamil",
+        "subject":"Language",
+        "key":"7",
+        "price":"110",
+        "time":"30",
+        "img":"https://image.scoopwhoop.com/w360/s4.scoopwhoop.com/anj/jsjs/e0b08bfc-62d8-4017-a20d-d949707dff99.jpg.webp"
+    },
+    {
+        "title":"Learning Marathi",
+        "subject":"Language",
+        "key":"8",
+        "price":"100",
+        "time":"35",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBKO4eGhP40MireR5KMa1POGFZmQj4QNytMw&usqp=CAU"
+    },
+    {
+        "title":"Learning Korean",
+        "subject":"Language",
+        "key":"9",
+        "price":"130",
+        "time":"50",
+        "img":"https://thumbs.dreamstime.com/b/phrase-korean-language-education-greeting-romantic-lettering-card-vector-illustration-letters-south-korea-culture-181130583.jpg"
     }
 ]

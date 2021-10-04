@@ -20,10 +20,10 @@ const About = () => {
                         </h2>
                         <div className="paragraph py-4 w-75">
                             <p className="para">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, optio minima dolorum debitis earum veritatis cupiditate! Reiciendis autem in repellat?
+                                Self-study programs allow learning without having a teacher present, and the courses can supplement or replace classroom instruction.
                             </p>
                             <p className="para">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, explicabo similique. Dolorem possimus, accusantium eligendi asperiores iure sapiente nemo veritatis itaque porro dolorum odio distinctio excepturi velit quisquam dicta doloremque praesentium eaque perspiciatis architecto culpa aut quasi earum. Enim, quod?
+                                Universities use self-study programs for less-commonly taught languages, where having professors is not feasible. Self-study programs are available on paper, audio files, video files, smartphone apps, computers, or any combination.
                             </p>
                         </div>
                         <button type="button" className="btn button cvbtn primary-button">download cv</button>

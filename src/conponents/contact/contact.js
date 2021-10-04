@@ -8,7 +8,7 @@ const Contact = () => {
                 <div className="row">
                     <div className="col-lg-12 text-center subscribe-title">
                         <h4 className="text-uppercase font-roboto">Send Your Message Here</h4>
-                        <p className="para">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Error labore nulla nisi.</p>
+                        <p className="para">There are many others that teach one language.</p>
                     </div>
                 </div>
                 <div className="d-sm-flex justify-content-center">
